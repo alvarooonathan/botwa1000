@@ -1,7 +1,6 @@
 {
-  "name": "wabot-aq",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Nurutomo/wabot-aq",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "name": "Amane Bot",
+  "description": "Amane Wa Bot",
+  "repository": "https://github.com/alvarooonathan/botwa1000",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
